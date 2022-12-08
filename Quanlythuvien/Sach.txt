@@ -1,0 +1,3 @@
+231413;Toi di choi;Nguyen A;Ha Noi;2015;Vui choi;150000;150
+456789;Toi di hoc;Tran B;TPHCM;2005;Hoc tap;120000;50
+123456;Toi vua hoc vua choi;Nguyen Thi C;Dong Nai;2017;Vui choi;100000;130
